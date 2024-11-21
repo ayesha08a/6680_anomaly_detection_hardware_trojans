@@ -1,4 +1,4 @@
-**Project Title: Anomaly Detection for Hardware Trojans Using Isolation Forest **
+**Project Title: Anomaly Detection for Hardware Trojans Using Isolation Forest**
 
 **Description**
 This project demonstrates a machine learning-based approach to detect Hardware Trojans in integrated circuits (ICs) by analyzing anomalies in simulated power consumption data. Using the Isolation Forest algorithm, the project highlights how unsupervised learning can identify tampered hardware components efficiently.
